@@ -1,7 +1,8 @@
 /* Complete the challenge by writing CSS below */
 
-p {
-    color: lightslategrey;
+header {
+    background-color: orange;
+color: white;
 }
 
 
