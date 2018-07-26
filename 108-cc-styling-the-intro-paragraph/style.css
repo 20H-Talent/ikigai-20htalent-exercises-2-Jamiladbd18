@@ -1,7 +1,12 @@
 /* Complete the challenge by writing CSS below */
 .intro{
 font-size: 1.25em;
-line-head: 1.6;
+line-head: 1.6em;
 
+}
+
+.intro span {
+font-weight: bold;
+font-style: italic;
 }
 
