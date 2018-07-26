@@ -1,3 +1,4 @@
+
 /* Complete the challenge by writing CSS below */
 .primary-content {
   padding-top: 25px;
@@ -7,3 +8,7 @@
 border-top: 10px solid lightgrey;
 }
 
+.secondary-content {
+  padding-top: 80px;
+padding-bottom: 70px;
+}
