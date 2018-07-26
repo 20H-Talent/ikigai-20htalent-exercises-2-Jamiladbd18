@@ -9,4 +9,6 @@
   display: table;
   clear: both;
 }
-
+.content-lodging {
+float: right;
+}
