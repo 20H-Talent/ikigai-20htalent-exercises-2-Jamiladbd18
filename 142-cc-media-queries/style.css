@@ -7,3 +7,11 @@ text-color: white;
 }
 }
 
+media (max-width: 768px) {
+.title{
+font-size: 1.4rem;
+}
+.h1 {
+font-size: 5rem;
+}
+}
