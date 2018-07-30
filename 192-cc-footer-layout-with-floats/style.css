@@ -7,3 +7,10 @@
   display: table;
   clear: both;
 }
+.footer-nav {
+float: left;
+}
+.logo {
+float: right;
+}
+
