@@ -17,3 +17,6 @@ float: right;
 float: right;
 display: inline-block;
 }
+.copyright {
+clear: both;
+}
