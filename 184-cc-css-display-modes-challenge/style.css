@@ -7,6 +7,6 @@ header {
   width: 110px;
   margin: auto;
 }
-.main-nav li {
+.main-nav {
   display: inline-block;
 }
