@@ -1,5 +1,7 @@
 /* Complete the challenge by writing CSS below */
 .logo {
 position: absolute;
+margin-top: -45px;
+margin-left: 125px;
 }
 
