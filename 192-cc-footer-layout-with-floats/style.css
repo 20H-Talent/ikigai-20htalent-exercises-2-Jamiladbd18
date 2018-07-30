@@ -13,4 +13,7 @@ float: left;
 .logo {
 float: right;
 }
-
+.footer-nav li {
+float: right;
+display: inline-block;
+}
