@@ -3,6 +3,8 @@ img[title="avatar"] {
 radius: 50%;
 }
 input[type="passowrd"] {
-color: #ccc
+color: #ccc;
 }
-
+input[type="submit"] {
+background-color: #52bab3;
+}
