@@ -2,7 +2,12 @@
 
 @media (min-width: 607px) {
 
-img {
+img:nth-child(3n +4) {
 float: left;
+}
+.clearfix {
+content: "";
+clear: both;
+display: table;
 }  
 }
