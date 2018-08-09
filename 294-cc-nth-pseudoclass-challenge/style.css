@@ -4,6 +4,7 @@
 
 img:nth-child(3n +4) {
 float: left;
+border-color: tomato;
 }
 .clearfix {
 content: "";
